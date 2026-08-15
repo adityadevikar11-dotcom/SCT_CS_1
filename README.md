@@ -65,26 +65,6 @@ Where:
 - Conditional Statements
 - Loops
 
-📂 Project Structure
-
-caesar-cipher-python/
-│
-├── caesar_cipher.py
-└── README.md
-
-▶️ How to Run
-
-1. Clone the repository
-
-git clone https://github.com/YOUR-USERNAME/caesar-cipher-python.git
-
-2. Open the project directory
-
-cd caesar-cipher-python
-
-3. Run the program
-
-python caesar_cipher.py
 
 💻 Example
 
@@ -133,8 +113,5 @@ Through this project, I learned:
 
 Developed as a learning project to explore Python Programming and the fundamentals of cryptography
 
-CSE (Cyber Security) Student
 
-📄 License
 
-This project is intended for educational purposes.
